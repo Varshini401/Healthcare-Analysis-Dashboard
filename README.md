@@ -29,6 +29,10 @@ The dashboard helps users explore healthcare data, identify patterns, and unders
 - Filter-based data exploration, where implemented.
 - Easy-to-understand presentation of analytical findings.
 
+## 📸 Dashboard Preview
+
+![Healthcare Dashboard](Healthcare_Dashboard.png)
+
 ## 📁 Project Files
 
 | File Name | Description |
